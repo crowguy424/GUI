@@ -1,0 +1,16 @@
+X:\C#\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+X:\C#\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+X:\C#\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+X:\C#\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+X:\C#\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+X:\C#\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+X:\C#\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.AssemblyReference.cache
+X:\C#\GUI\obj\Debug\netcoreapp3.1\GUI.Form1.resources
+X:\C#\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.GenerateResource.cache
+X:\C#\GUI\obj\Debug\netcoreapp3.1\GUI.GeneratedMSBuildEditorConfig.editorconfig
+X:\C#\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+X:\C#\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+X:\C#\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+X:\C#\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+X:\C#\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+X:\C#\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
